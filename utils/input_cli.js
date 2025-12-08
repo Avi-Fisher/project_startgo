@@ -6,6 +6,3 @@ export default function input_cli(){
 
     return input
 }
-
-
-
