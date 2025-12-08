@@ -5,8 +5,6 @@ export default function placement_ai(board) {
     let army = mixing_army("ai")
     let index = 0
 
-    
-    
 
     for (let row = 9; row > 5; row--)
 
