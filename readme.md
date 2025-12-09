@@ -13,7 +13,8 @@ npm i readline-sync
 
 ## To play game 
 use the "app.js" to play
-run this comund
+
+run this comund in node.js to play
 ```
 node .\app.js  
 ```
