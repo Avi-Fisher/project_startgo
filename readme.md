@@ -21,7 +21,7 @@ This game bilde with 3 baasic folder
 
 2. game - this folder do the all game flow (turn ,move soldier ,war ...)
 
-3. app.js - This file do the all game (bilid board & game flow 
+3. app.js - This file do the all game (bilid board & game flow) 
 
 
 #enjoy the game 
