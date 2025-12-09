@@ -1,7 +1,7 @@
 import create_soldier from "./create_soldier.js"
 
 
-export default function create_army(player) {
+export default function create_army(name) {
 
     let army = []
 
@@ -23,10 +23,10 @@ export default function create_army(player) {
     for (let i = 1; i <= 10; i++) {
 
         for (let j = 0; j < soldier[i]; j++)
-            army.push(create_soldier(i, player))
+            army.push(create_soldier(i, name))
     }
 
-    army.push(create_soldier("flag", player))
+    army.push(create_soldier("flag", name))
 
 
     return army

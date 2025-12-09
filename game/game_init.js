@@ -2,7 +2,8 @@ import full_board from "../board/full_board.js";
 
 function game_init(){
 
-    console.table(full_board().board)
+    let b = full_board()
+    console.table(b.board)
 
 
 }
