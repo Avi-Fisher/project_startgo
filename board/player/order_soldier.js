@@ -19,7 +19,7 @@ export default function order_solder(board,army) {
         console.log("peek colmn for soldier between 0 - 9")
         let colmn = input_cli()
 
-        if (3 >= row >= 0 && 9 >= colmn >= 0){
+        if (3 >= row && row >= 0 && 9 >= colmn && colmn >= 0){
 
             if (board[row][colmn] === "_"){
                 
