@@ -12,7 +12,11 @@ Use the package manager "npm"  to install foobar.
 npm i readline-sync
 
 ## To play game 
-use the "app.js" to play 
+use the "app.js" to play
+run this comund
+```
+node .\app.js  
+```
 
 ## File structure
 This game bilde with 3 baasic folder 
