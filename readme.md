@@ -8,9 +8,9 @@ Use the package manager "npm"  to install foobar.
 
 
 ## Usage
-
+```
 npm i readline-sync
-
+```
 ## To play game 
 use the "app.js" to play
 
