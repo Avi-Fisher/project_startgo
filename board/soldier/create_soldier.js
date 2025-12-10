@@ -4,7 +4,6 @@ export default function create_soldier(value, player) {
 
         value: value,
         player: player,
-        location:""
 
     }
     return soldier

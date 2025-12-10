@@ -42,12 +42,7 @@ export default function full_board() {
     placement_random(board,ai_arny,6,10)
 
    
-    
-
-    return {
-        player: player,
-        board: board
-    }
+    return board
 }
 
 
